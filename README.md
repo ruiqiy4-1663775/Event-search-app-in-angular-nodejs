@@ -3,3 +3,5 @@ This is a much more sophiscated version of the event search app previously imple
 
 # The app is deployed in google cloud platform. The following is the url: 
 https://event-finder-complex-version.uw.r.appspot.com/
+
+# It is implemented in angular, and node.js is used as the backend.
